@@ -18,7 +18,7 @@
 
 ## Let the wiring begin
 
-Using the nicely colored wires of some ethernet cable\
+Using the nicely colored wires of some leftover ethernet cable
 
 <img src="images\IMG_20200707_204047.jpg"  height="600" />
 
@@ -69,8 +69,24 @@ It fits!
 
 <img src="images\IMG_20200804_193109.jpg"  width="600" />
 
-I did use a mini usb to femable usb c cable in between so I can easily plug in ohter cables, but I don't have any pictures of that.
+Adding an internal mini USB to female USB C cable so I can use USB C cables
+
+<img src="images\IMG_20200824_192705.jpg"  width="600" />
+
+Adding an internal mini USB to female USB C cable so I can use USB C cables
+
+<img src="images\IMG_20200824_192705.jpg"  width="600" />
+
+## Mounting it in the case
+
+Standoffs to screw into the case and have the plate rest on
+
+<img src="images\IMG_20200824_192258.jpg"  width="600" />
+<img src="images\IMG_20200824_192703.jpg"  width="600" />
+<img src="images\MVIMG_20200824_193307.jpg"  width="600" />
+
+Unfortunately, when I tried screwing something onto the standoffs to secure the plate, it ended up being too high and interfering with the keycaps when pushed down ([see this video](/60/images/VID_20200824_195750.mp4)). For now I just use the keyboard with the plate unsecured, just resting on the standoffs.
 
 ## Final product
 
-<img src="images\IMG_20200707_181728.jpg"  width="600" />
+<img src="images\IMG_20200824_200826.jpg"  width="600" />

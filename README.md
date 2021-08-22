@@ -7,7 +7,7 @@ The configurations are made through [kbfirmware](https://kbfirmware.com) ([GitHu
 
 A 60% handwired keyboard with gateron brown switches.
 
-<img src="60\images\IMG_20200707_181728.jpg"  width="400" />
+<img src="60\images\IMG_20200824_200826.jpg"  width="400" />
 
 [Config file](60/config.json) - [Build log](60/buildlog.md)
 
