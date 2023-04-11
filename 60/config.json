@@ -615,7 +615,7 @@
         "keycodes": [
           { "id": "KC_W", "fields": [] },
           { "id": "KC_UP", "fields": [] },
-          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_UP", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
@@ -1096,7 +1096,7 @@
         "keycodes": [
           { "id": "KC_A", "fields": [] },
           { "id": "KC_LEFT", "fields": [] },
-          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_LEFT", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
@@ -1133,7 +1133,7 @@
         "keycodes": [
           { "id": "KC_S", "fields": [] },
           { "id": "KC_DOWN", "fields": [] },
-          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_DOWN", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
@@ -1170,7 +1170,7 @@
         "keycodes": [
           { "id": "KC_D", "fields": [] },
           { "id": "KC_RGHT", "fields": [] },
-          { "id": "KC_TRNS", "fields": [] },
+          { "id": "KC_RGHT", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
           { "id": "KC_TRNS", "fields": [] },
