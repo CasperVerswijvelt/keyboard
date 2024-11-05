@@ -115,7 +115,7 @@
             "fields": []
           },
           {
-            "id": "KC_TRNS",
+            "id": "KC_VOLD",
             "fields": []
           },
           {
@@ -455,7 +455,7 @@
             "fields": []
           },
           {
-            "id": "KC_VOLD",
+            "id": "KC_VOLU",
             "fields": []
           },
           {
@@ -540,7 +540,7 @@
             "fields": []
           },
           {
-            "id": "KC_VOLU",
+            "id": "KC_TRNS",
             "fields": []
           },
           {
@@ -2403,9 +2403,7 @@
         "keycodes": [
           {
             "id": "MO()",
-            "fields": [
-              2
-            ]
+            "fields": [2]
           },
           {
             "id": "KC_TRNS",
@@ -4958,9 +4956,7 @@
         "keycodes": [
           {
             "id": "MO()",
-            "fields": [
-              1
-            ]
+            "fields": [1]
           },
           {
             "id": "KC_TRNS",
@@ -5211,13 +5207,7 @@
     "rows": 5,
     "cols": 14,
     "pins": {
-      "row": [
-        "B7",
-        "B1",
-        "D0",
-        "B3",
-        "B2"
-      ],
+      "row": ["B7", "B1", "D0", "B3", "B2"],
       "col": [
         "F6",
         "B6",
